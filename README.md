@@ -27,6 +27,6 @@
 
 ## Final Recommendations
 * Offer **Champions** **VIP Recognition** and **inclusivity** to retain them as important customers.
-* **Upsell Premium Auto packages and accessories* to **Loyalists** maximize their high lifetime value.
+* **Upsell Premium Auto packages and accessories** to **Loyalists** maximize their high lifetime value.
 * Implement an **automated Re-engagement campaign** specifically for the **At risk** customers(337) because they already show an excellent Frecency score to prevent them from slipping into the hibernating funnel.
 * Exercise **seperate dedicated account management** for the customers with **high frequency** and **high monetary scores**(The '**Whales**') to ensure tracking of the customer experience and avoid potential churn which can heavily affect the business health.
