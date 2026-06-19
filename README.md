@@ -28,4 +28,4 @@
 * Implement **VIP Loyalty Program** for **champions** to strengthen engagement and increase long term retention because this segement represents the highest value customers.
 * Introduce targeted upselling strategies to **Loyalists** by promoting premium product values to maximize customer lifetime value.
 * Deploy an **automated Re-engagement campaign** specifically for the **At risk** customers(337) to prevent churn leveraging personalized offers and reminders based on their recent activity patterns.
-* Assign **seperate dedicated account management** to **high frequency**, **high monetary value **customers(The '**Whales**') to ensure personalized service, improve satisfaction and reduce risk of high impact churn.
+* Assign **seperate dedicated account management** to **high frequency**, **high monetary value** customers(The '**Whales**') to ensure personalized service, improve satisfaction and reduce risk of high impact churn.
