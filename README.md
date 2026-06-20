@@ -6,7 +6,7 @@
 ## Executive Summary
 * In this project, **customer segmentation** is conducted using a **Recency, Frequency and Monetary(RFM) framework** on an Auto Sales Dataset using **EXCEL** based on purchasing behavior and value contribution. The goal is to identify high value, at-risk and inactive customers to help the business to **increase Conversion Rate** and **reduce Churn Rate** . The analysis reveals distinct customer segments and shows the **risk of churn** to be **74.33%** and the **Average Order Value** to be unexpectedly high at **$3.55K**
 
-## 🛠 Tools & Skills Demonstrated
+## Tools & Skills Demonstrated
 <details>
 ### Excel
 - Data cleaning and validation
@@ -48,7 +48,7 @@
 * Segmented the customers using the **IFS statement** and assigned **stategies** using the **VLOOKUP** function
 
 ### Data Visualization (Power BI)
-* This is a link to the Power BI dashboard: 
+* This is a picture of the dashboard : <img width="1365" height="719" alt="Customer Segmentation   RFM Based Marketing Strategies Dashboard" src="https://github.com/user-attachments/assets/71266aa4-bf77-409b-9dc6-e93b1ffce625" />
 
 ## Key Insights
 * The **Champions** make up the largest percent of the total customer base(**36.99%**), followed by **Loyalists** who make up **32.63%**. The 2 segments make up almost **70%** of the whole customer base which shows that the business has an exceptionally healthy core.
