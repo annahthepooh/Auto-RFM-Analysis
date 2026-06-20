@@ -48,7 +48,7 @@
 * Segmented the customers using the **IFS statement** and assigned **stategies** using the **VLOOKUP** function
 
 ### Data Visualization (Power BI)
-* This is a picture of the dashboard : <img width="1365" height="719" alt="Customer Segmentation   RFM Based Marketing Strategies Dashboard" src="https://github.com/user-attachments/assets/71266aa4-bf77-409b-9dc6-e93b1ffce625" />
+* The dashboard and the pic of the dashboard are attached.
 
 ## Key Insights
 * The **Champions** make up the largest percent of the total customer base(**36.99%**), followed by **Loyalists** who make up **32.63%**. The 2 segments make up almost **70%** of the whole customer base which shows that the business has an exceptionally healthy core.
